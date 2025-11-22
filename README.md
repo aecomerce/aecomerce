@@ -32,7 +32,7 @@ Python web developer
 
 ## 📈 Contribution Graph
 
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=aecomerce&theme=radical&hide_border=true)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=aecomerce&theme=radical&hide_border=true)
 
 ## 📫 Connect with me
 
