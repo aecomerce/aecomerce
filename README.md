@@ -22,8 +22,6 @@ Python web developer
 
 <div align="center">
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=aecomerce&show_icons=true&theme=radical&hide_title=true)
-
 ![Stats](https://github-readme-stats.vercel.app/api?username=aecomerce&show_icons=true&theme=radical)
 
 </div>
