@@ -24,7 +24,7 @@ Python web developer
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=aecomerce&show_icons=true&theme=radical&hide_title=true)
 
-![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=aecomerce&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=aecomerce&show_icons=true&theme=radical)
 
 </div>
 
