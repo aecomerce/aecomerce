@@ -30,10 +30,6 @@ Python web developer
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aecomerce&layout=compact&theme=radical&hide=)
 
-## 📈 Contribution Graph
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=aecomerce&theme=radical&hide_border=true)
-![Iron Man Hologram](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 ## 📫 Connect with me
 
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/aecomerce)
