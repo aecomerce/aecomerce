@@ -33,7 +33,7 @@ Python web developer
 ## 📈 Contribution Graph
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=aecomerce&theme=radical&hide_border=true)
-![Coding](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
+![Brain Loading](https://media.giphy.com/media/3o7aD2sN7I3Jb0Q1a8/giphy.gif)
 ## 📫 Connect with me
 
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/aecomerce)
