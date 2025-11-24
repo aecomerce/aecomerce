@@ -33,7 +33,7 @@ Python web developer
 ## 📈 Contribution Graph
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=aecomerce&theme=radical&hide_border=true)
-![Contribution Calendar](https://github-readme-calendar.vercel.app/calendar?username=ВАШ_USERNAME&theme=radical&layout=compact)
+![Contribution Calendar](https://github-readme-calendar.vercel.app/calendar?username=aecomerce&theme=radical&layout=compact)
 
 ## 📫 Connect with me
 
