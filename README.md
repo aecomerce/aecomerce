@@ -23,7 +23,7 @@ Python web developer
 
 ## 🗣️ Most Used Languages
 
-![Top Languages](https://github-readme-stats-git-main-aecomerce.vercel.app/api/top-langs/?username=aecomerce&layout=compact&theme=radical)
+![Top Languages](https://streak-stats.demolab.com/?user=aecomerce&layout=compact&theme=radical)
 
 ## 📫 Connect with me
 
