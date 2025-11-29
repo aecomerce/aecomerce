@@ -17,7 +17,7 @@ Python web developer
 
 <div align="center">
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aecomerce&theme=radical)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aecomerce&theme=radical&hide=)
 
 </div>
 
