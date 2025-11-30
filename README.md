@@ -23,7 +23,11 @@ Python web developer
 
 ## 🗣️ Most Used Languages
 
+<div align="center">
+
 ![Top Languages](https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=aecomerce&layout=compact&theme=radical)
+
+</div>
 
 ## 📫 Connect with me
 
