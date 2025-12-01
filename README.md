@@ -21,7 +21,7 @@ Python web developer
 
 </div>
 
-## 🗣️ Most Used Languages
+##  Most Used Languages
 
 <div align="center">
 
