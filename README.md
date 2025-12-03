@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# ♦️ I'm Arkadiy Fesler 
+# I'm Arkadiy Fesler 
 
 Python web developer
 
