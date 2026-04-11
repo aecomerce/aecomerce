@@ -17,7 +17,7 @@ Software Engineer
 
 ### **Backend**
 <p>
-  <img src="https://shields.io" alt="go" />
+  <img src="https://skillicons.dev" height="40" alt="go" />
 </p>
 
 ### **Data Base**
