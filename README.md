@@ -17,7 +17,7 @@ Software Engineer
 
 ### **Backend**
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/golang/golang-original.svg" alt="golang" width="40" height="40"/>
+  <img src="https://jsdelivr.net" width="40" height="40" alt="golang" />
 </p>
 
 ### **Data Base**
