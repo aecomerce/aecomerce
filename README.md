@@ -17,7 +17,7 @@ Software Engineer
 
 ### **Backend**
 <p>
-  <img src="https://githubusercontent.com" width="40" height="40" alt="go" />
+  <img src="https://shields.io" alt="go" />
 </p>
 
 ### **Data Base**
