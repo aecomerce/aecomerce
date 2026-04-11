@@ -17,7 +17,7 @@ Software Engineer
 
 ### **Backend**
 <p>
-  <img src="https://skillicons.dev" height="40" alt="go" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" height="40"/>
 </p>
 
 ### **Data Base**
