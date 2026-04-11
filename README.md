@@ -17,7 +17,7 @@ Software Engineer
 
 ### **Backend**
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/golang/golang-original.svg" alt="golang" width="40" height="40"/>
 </p>
 
 ### **Data Base**
