@@ -17,7 +17,7 @@ Software Engineer
 
 ### **Backend**
 <p>
-  <img src="https://githubusercontent.com" width="40" height="40" alt="go" />
+  ![Go](https://githubusercontent.com)
 </p>
 
 ### **Data Base**
