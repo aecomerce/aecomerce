@@ -19,11 +19,11 @@ Software Engineer
 
 ### **Backend**
 <p>
-  <img src="https://icons8.com" alt="python" width="40"/>
-  <img src="https://icons8.com" alt="fastapi" width="40"/>
-  <img src="https://icons8.com" alt="redis" width="40"/>
-  <img src="https://icons8.com" alt="postgresql" width="40"/>
-  <img src="https://icons8.com" alt="graphql" width="40"/>
+  <img src="https://shields.io" alt="Python"/>
+  <img src="https://shields.io" alt="FastAPI"/>
+  <img src="https://shields.io" alt="Redis"/>
+  <img src="https://shields.io" alt="PostgreSQL"/>
+  <img src="https://shields.io" alt="GraphQL"/>
 </p>
 
 
