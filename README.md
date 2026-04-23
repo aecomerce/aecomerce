@@ -18,15 +18,13 @@ Software Engineer
 </p>
 
 ### **Backend**
-### **Backend**
 <p>
-  <img src="https://jsdelivr.net" alt="Python" width="40" height="40"/>
-  <img src="https://jsdelivr.net" alt="FastAPI" width="40" height="40"/>
-  <img src="https://jsdelivr.net" alt="Redis" width="40" height="40"/>
-  <img src="https://jsdelivr.net" alt="Postgres" width="40" height="40"/>
-  <img src="https://jsdelivr.net" alt="GraphQL" width="40" height="40"/>
+  <img src="https://githubusercontent.com" width="40" height="40" alt="Python" />
+  <img src="https://githubusercontent.com" width="40" height="40" alt="FastAPI" />
+  <img src="https://githubusercontent.com" width="40" height="40" alt="PostgreSQL" />
+  <img src="https://githubusercontent.com" width="40" height="40" alt="Redis" />
+  <img src="https://githubusercontent.com" width="40" height="40" alt="GraphQL" />
 </p>
-
 
 
 ### **Data Base**
