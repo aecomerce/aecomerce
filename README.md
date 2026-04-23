@@ -18,13 +18,9 @@ Software Engineer
 </p>
 
 ### **Backend**
-<p>
-  <img src="https://it610.com" width="40" height="40" alt="Python">
-  <img src="https://it610.com" width="40" height="40" alt="FastAPI">
-  <img src="https://it610.com" width="40" height="40" alt="Redis">
-  <img src="https://it610.com" width="40" height="40" alt="Postgres">
-  <img src="https://it610.com" width="40" height="40" alt="GraphQL">
-</p>
+
+![Python](https://icons8.com) ![FastAPI](https://icons8.com) ![Redis](https://icons8.com) ![GraphQL](https://icons8.com)
+
 
 
 ### **Data Base**
