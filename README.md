@@ -25,12 +25,20 @@ Software Engineer
 <!-- FastAPI -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40"/>
 
+<!-- Alembic (миграции) -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/alembic/alembic-original.svg" width="40"/>
+
+<!-- Pydantic -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pydantic/pydantic-original.svg" width="40"/>
+
 <!-- Redis -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40"/>
 
 <!-- GraphQL -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" width="40"/>
 
+<!-- Pytest (тестирование) -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original.svg" width="40"/>
 
 
 ### **Data Base**
