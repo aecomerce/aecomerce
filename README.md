@@ -25,9 +25,6 @@ Software Engineer
 <!-- FastAPI -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40"/>
 
-<!-- Pydantic -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pydantic/pydantic-original.svg" width="40"/>
-
 <!-- Redis -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40"/>
 
