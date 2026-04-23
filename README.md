@@ -17,14 +17,6 @@ Software Engineer
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="40" height="40"/>
 </p>
 
-### **Backend**
-<p>
-  <img src="https://it610.com" width="40" height="40" alt="Python">
-  <img src="https://it610.com" width="40" height="40" alt="FastAPI">
-  <img src="https://it610.com" width="40" height="40" alt="Redis">
-  <img src="https://it610.com" width="40" height="40" alt="Postgres">
-  <img src="https://it610.com" width="40" height="40" alt="GraphQL">
-</p>
 
 
 ### **Data Base**
