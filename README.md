@@ -19,17 +19,13 @@ Software Engineer
 
 ### **Backend**
 <p>
-  <!-- Python -->
-  <img src="https://jsdelivr.net" alt="Python" width="40" height="40"/>
-  <!-- FastAPI -->
-  <img src="https://jsdelivr.net" alt="FastAPI" width="40" height="40"/>
-  <!-- Redis -->
-  <img src="https://jsdelivr.net" alt="Redis" width="40" height="40"/>
-  <!-- PostgreSQL (как отличная замена Go для Python-стека) -->
-  <img src="https://jsdelivr.net" alt="PostgreSQL" width="40" height="40"/>
-  <!-- GraphQL -->
-  <img src="https://jsdelivr.net" alt="GraphQL" width="40" height="40"/>
+  <img src="https://icons8.com" alt="python" width="40"/>
+  <img src="https://icons8.com" alt="fastapi" width="40"/>
+  <img src="https://icons8.com" alt="redis" width="40"/>
+  <img src="https://icons8.com" alt="postgresql" width="40"/>
+  <img src="https://icons8.com" alt="graphql" width="40"/>
 </p>
+
 
 ### **Data Base**
 <p>
