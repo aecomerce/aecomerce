@@ -47,7 +47,7 @@ Software Engineer
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=aecomerce&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=aecomerce&layout=compact&theme=radical&hide=html,css)
 
 </div>
 
