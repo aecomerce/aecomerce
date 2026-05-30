@@ -11,7 +11,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aecomerce/aecomerce/main/assets/backend-terminal.svg" width="600" alt="FastAPI code editor" />
+  <img src="https://raw.githubusercontent.com/aecomerce/aecomerce/main/assets/backend-terminal.svg" width="800" alt="FastAPI code editor" />
 </p>
 
 ## About Me
