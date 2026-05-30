@@ -11,7 +11,7 @@
 ---
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+  <img src="https://github.com/SP-XD/SP-XD/raw/main/images/dev-working_rounded.gif" width="450"/>
 </p>
 
 ## About Me
