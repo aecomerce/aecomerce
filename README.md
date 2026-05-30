@@ -11,7 +11,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/SP-XD/SP-XD/raw/main/images/dev-working_rounded.gif" width="450"/>
+  <img src="https://raw.githubusercontent.com/aecomerce/aecomerce/main/assets/backend-terminal.svg" width="600" alt="FastAPI code editor" />
 </p>
 
 ## About Me
