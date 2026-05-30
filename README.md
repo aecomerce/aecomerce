@@ -11,8 +11,8 @@
 ---
 
 <table align="center"><tr>
-  <td><img src="https://raw.githubusercontent.com/aecomerce/aecomerce/main/assets/backend-terminal.svg" width="420" /></td>
-  <td><img src="https://raw.githubusercontent.com/aecomerce/aecomerce/main/assets/data-analyst-terminal.svg" width="420" /></td>
+  <td><img src="https://raw.githubusercontent.com/aecomerce/aecomerce/main/assets/backend-terminal.svg" width="600" /></td>
+  <td><img src="https://raw.githubusercontent.com/aecomerce/aecomerce/main/assets/data-analyst-terminal.svg" width="600" /></td>
 </tr></table>
 
 ## About Me
