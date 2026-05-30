@@ -11,7 +11,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="550"/>
+  <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="600"/>
 </p>
 
 ## About Me
