@@ -11,7 +11,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/SP-XD/SP-XD/raw/main/images/dev-working_rounded.gif" width="450"/>
+  <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="550"/>
 </p>
 
 ## About Me
