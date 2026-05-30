@@ -10,9 +10,13 @@
 
 ---
 
-<p align="center">
-  <img width="500" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzQ5c2t4dGh3a2x5d3F5Y2F4dGFjbHpsNm9uaGVhZXd4dGhvbDVrNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l46Cy1rHbQ92uuLXa/giphy.gif">
-</p>
+<div align="center">
+
+### 🐍 Turning ideas into APIs, data, and automation
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
 
 ## About Me
 
