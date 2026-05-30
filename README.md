@@ -75,16 +75,15 @@ Passionate Python Developer focused on building backend services, APIs, automati
 
 ---
 
-## Current Focus
+## Profile Metrics
 
-```python
-skills = {
-    "backend": ["Python", "FastAPI", "REST API", "Databases"],
-    "data": ["Pandas", "NumPy", "Data Analysis"],
-    "devops": ["Docker", "Linux", "CI/CD"],
-    "learning": ["System Design", "Microservices", "Cloud"]
-}
-```
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=aecomerce&style=for-the-badge)
+
+![](https://img.shields.io/github/followers/aecomerce?style=for-the-badge)
+
+</div>
 
 ---
 
