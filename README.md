@@ -10,14 +10,6 @@
 
 ---
 
-<div align="center">
-
-### 🐍 Turning ideas into APIs, data, and automation
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
 ## About Me
 
 Passionate Python Developer focused on building backend services, APIs, automation tools, and data-driven applications.
@@ -83,14 +75,14 @@ Passionate Python Developer focused on building backend services, APIs, automati
 
 ---
 
-## Connect With Me
-
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/aecomerce)
-
----
-
 ## Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
+
+---
+
+## Connect With Me
+
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/aecomerce)
