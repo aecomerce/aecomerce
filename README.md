@@ -10,153 +10,52 @@
 
 ---
 
-<!-- СТИЛЬНАЯ АНИМАЦИЯ: ТЕРМИНАЛ-СТАТУС БЭКЕНД/ДАТА -->
 <div align="center">
-  <table style="background: #0D1117; border-radius: 20px; border: 1px solid #30363d; max-width: 800px; margin: 20px auto; backdrop-filter: blur(4px);">
-    <tr>
-      <td style="padding: 20px 24px;">
-        <div style="font-family: 'JetBrains Mono', 'Fira Code', monospace; font-size: 14px;">
-
-          <!-- Заголовок терминала с точками -->
-          <div style="display: flex; align-items: center; gap: 8px; margin-bottom: 16px; border-bottom: 1px solid #21262d; padding-bottom: 10px;">
-            <span style="display: inline-block; width: 12px; height: 12px; background: #ff5f56; border-radius: 50%;"></span>
-            <span style="display: inline-block; width: 12px; height: 12px; background: #ffbd2e; border-radius: 50%;"></span>
-            <span style="display: inline-block; width: 12px; height: 12px; background: #27c93f; border-radius: 50%;"></span>
-            <span style="color: #8b949e; margin-left: 12px; font-size: 12px;">🐍 backend@analyst:~/resume</span>
-          </div>
-
-          <!-- Анимированные строки (классический массив + цикл) -->
-          <div style="color: #e6edf3; line-height: 1.6;">
-            <span style="color: #58a6ff;">$</span> 
-            <span id="animated-line" style="color: #c9d1d9;"></span>
-            <span style="display: inline-block; width: 10px; height: 16px; background-color: #58a6ff; vertical-align: middle; margin-left: 2px; animation: blink 1s step-end infinite;"></span>
-          </div>
-
-          <!-- Доп. строка с прогрессом (динамическая нагрузка) -->
-          <div style="margin-top: 20px;">
-            <div style="display: flex; justify-content: space-between; font-size: 12px; color: #8b949e; margin-bottom: 6px;">
-              <span>▶ DATA PIPELINE HEALTH</span>
-              <span id="progress-percent" style="color: #58a6ff;">98%</span>
-            </div>
-            <div style="background: #21262d; border-radius: 12px; height: 6px; overflow: hidden;">
-              <div id="progress-bar" style="width: 98%; background: linear-gradient(90deg, #3fb950, #58a6ff); height: 6px; border-radius: 12px;"></div>
-            </div>
-          </div>
-
-          <div style="margin-top: 14px; display: flex; gap: 16px; flex-wrap: wrap; font-size: 11px; color: #7d8590; border-top: 1px solid #21262d; padding-top: 12px;">
-            <span>🔄 ETL: <span id="etl-status" style="color: #3fb950;">active</span></span>
-            <span>📊 API req/s: <span id="api-rps" style="color: #f0883e;">142</span></span>
-            <span>🐍 Tests: <span id="test-status" style="color: #d2a8ff;">✅ 23 passed</span></span>
-          </div>
-
-        </div>
-      </td>
-    </tr>
-  </table>
+  <svg width="800" height="120" viewBox="0 0 800 120" xmlns="http://www.w3.org/2000/svg">
+    <rect width="800" height="120" rx="12" fill="#0D1117" stroke="#30363D" stroke-width="1.5"/>
+    
+    <!-- Терминальные точки -->
+    <circle cx="20" cy="20" r="5" fill="#FF5F56"/>
+    <circle cx="38" cy="20" r="5" fill="#FFBD2E"/>
+    <circle cx="56" cy="20" r="5" fill="#27C93F"/>
+    
+    <!-- Текст терминала -->
+    <text x="20" y="55" font-family="JetBrains Mono, monospace" font-size="14" fill="#58A6FF">$</text>
+    <text x="35" y="55" font-family="JetBrains Mono, monospace" font-size="14" fill="#E6EDF3">
+      <tspan>▶ python3 main.py --env production</tspan>
+    </text>
+    
+    <!-- Анимированный курсор -->
+    <rect x="250" y="42" width="8" height="16" fill="#58A6FF">
+      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+    </rect>
+    
+    <!-- Прогресс-бар -->
+    <text x="20" y="85" font-family="JetBrains Mono, monospace" font-size="11" fill="#8B949E">DATA PIPELINE</text>
+    <rect x="20" y="92" width="460" height="6" rx="3" fill="#21262D"/>
+    <rect x="20" y="92" width="0" height="6" rx="3" fill="#3FB950">
+      <animate attributeName="width" values="0;460;0" dur="8s" repeatCount="indefinite"/>
+    </rect>
+    
+    <!-- Статусы справа -->
+    <text x="520" y="85" font-family="JetBrains Mono, monospace" font-size="11" fill="#8B949E">⚡ API</text>
+    <text x="520" y="102" font-family="JetBrains Mono, monospace" font-size="13" fill="#58A6FF">
+      <tspan>142</tspan>
+      <tspan fill="#8B949E" font-size="10"> req/s</tspan>
+    </text>
+    
+    <text x="640" y="85" font-family="JetBrains Mono, monospace" font-size="11" fill="#8B949E">🐍 TESTS</text>
+    <text x="640" y="102" font-family="JetBrains Mono, monospace" font-size="13" fill="#D2A8FF">
+      <tspan>✓ 23</tspan>
+      <tspan fill="#8B949E" font-size="10"> passed</tspan>
+    </text>
+    
+    <text x="740" y="85" font-family="JetBrains Mono, monospace" font-size="11" fill="#8B949E">⏱ UPTIME</text>
+    <text x="740" y="102" font-family="JetBrains Mono, monospace" font-size="13" fill="#3FB950">
+      <tspan>99.9%</tspan>
+    </text>
+  </svg>
 </div>
-
-<style>
-  @keyframes blink {
-    0%, 100% { opacity: 1; }
-    50% { opacity: 0; }
-  }
-</style>
-
-<script>
-  (function() {
-    // 1. Анимация печати строк (массив технологий / действий)
-    const lines = [
-      "Initializing FastAPI core... ✔️",
-      "Loading PostgreSQL pool → 12 connections",
-      "Running pandas profiling on sales data... 📈",
-      "Building ML feature store (scikit-learn) ✅",
-      "Docker Compose up: 4 services ready 🐳",
-      "System ready. Last deploy: main@2025-02-18"
-    ];
-    
-    let lineIndex = 0;
-    let charIndex = 0;
-    const animatedSpan = document.getElementById('animated-line');
-    let intervalId = null;
-    
-    function typeNextLine() {
-      if (!animatedSpan) return;
-      if (lineIndex >= lines.length) {
-        // закончили — через 2 секунды повторяем с начала (эффект цикла)
-        setTimeout(() => {
-          lineIndex = 0;
-          charIndex = 0;
-          if (animatedSpan) animatedSpan.innerHTML = '';
-          typeNextLine();
-        }, 3000);
-        return;
-      }
-      
-      const currentLine = lines[lineIndex];
-      if (charIndex < currentLine.length) {
-        animatedSpan.innerHTML = currentLine.substring(0, charIndex + 1);
-        charIndex++;
-        setTimeout(typeNextLine, 55);
-      } else {
-        // строка напечатана — пауза и следующая
-        lineIndex++;
-        charIndex = 0;
-        setTimeout(typeNextLine, 800);
-      }
-    }
-    
-    // 2. Динамический процент (имитация нагрузки: гуляет от 78 до 99)
-    const percentSpan = document.getElementById('progress-percent');
-    const progressBar = document.getElementById('progress-bar');
-    let currentPercent = 98;
-    
-    function updateMetrics() {
-      // Изменение процента (случайные колебания, но в пределах адекватного)
-      let delta = (Math.random() - 0.5) * 6;
-      let newPercent = currentPercent + delta;
-      if (newPercent > 99) newPercent = 97;
-      if (newPercent < 78) newPercent = 82;
-      currentPercent = Math.floor(newPercent);
-      if (percentSpan) percentSpan.innerText = currentPercent + '%';
-      if (progressBar) progressBar.style.width = currentPercent + '%';
-      
-      // Имитация RPS (колеблется)
-      const rpsSpan = document.getElementById('api-rps');
-      if (rpsSpan) {
-        let rps = 120 + Math.floor(Math.random() * 45);
-        rpsSpan.innerText = rps;
-      }
-      
-      // Меняем статус ETL иногда
-      const etlSpan = document.getElementById('etl-status');
-      if (etlSpan && Math.random() < 0.2) {
-        etlSpan.innerHTML = (etlSpan.innerHTML === 'active') ? '⚙️ processing' : 'active';
-        setTimeout(() => {
-          if (etlSpan) etlSpan.innerHTML = 'active';
-        }, 1800);
-      }
-    }
-    
-    // Запуск печати
-    typeNextLine();
-    
-    // Обновление метрик каждые 3.5 секунды (профессиональный дашборд)
-    setInterval(updateMetrics, 3600);
-    
-    // начальный вызов
-    updateMetrics();
-    
-    // также имитируем смену тестов для реалистичности
-    const testSpan = document.getElementById('test-status');
-    if (testSpan) {
-      setInterval(() => {
-        const tests = ['✅ 23 passed', '✅ 27 passed', '✅ 24 passed', '✅ 26 passed'];
-        const randomTest = tests[Math.floor(Math.random() * tests.length)];
-        testSpan.innerHTML = randomTest;
-      }, 5000);
-    }
-  })();
-</script>
 
 ## About Me
 
