@@ -10,6 +10,10 @@
 
 ---
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284068-accb6a5d-4f4b-4f3d-bb4e-42e9c6d9f9a8.gif" width="700">
+</p>
+
 ## About Me
 
 Passionate Python Developer focused on building backend services, APIs, automation tools, and data-driven applications.
