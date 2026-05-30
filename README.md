@@ -10,52 +10,9 @@
 
 ---
 
-<div align="center">
-  <svg width="800" height="120" viewBox="0 0 800 120" xmlns="http://www.w3.org/2000/svg">
-    <rect width="800" height="120" rx="12" fill="#0D1117" stroke="#30363D" stroke-width="1.5"/>
-    
-    <!-- Терминальные точки -->
-    <circle cx="20" cy="20" r="5" fill="#FF5F56"/>
-    <circle cx="38" cy="20" r="5" fill="#FFBD2E"/>
-    <circle cx="56" cy="20" r="5" fill="#27C93F"/>
-    
-    <!-- Текст терминала -->
-    <text x="20" y="55" font-family="JetBrains Mono, monospace" font-size="14" fill="#58A6FF">$</text>
-    <text x="35" y="55" font-family="JetBrains Mono, monospace" font-size="14" fill="#E6EDF3">
-      <tspan>▶ python3 main.py --env production</tspan>
-    </text>
-    
-    <!-- Анимированный курсор -->
-    <rect x="250" y="42" width="8" height="16" fill="#58A6FF">
-      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
-    </rect>
-    
-    <!-- Прогресс-бар -->
-    <text x="20" y="85" font-family="JetBrains Mono, monospace" font-size="11" fill="#8B949E">DATA PIPELINE</text>
-    <rect x="20" y="92" width="460" height="6" rx="3" fill="#21262D"/>
-    <rect x="20" y="92" width="0" height="6" rx="3" fill="#3FB950">
-      <animate attributeName="width" values="0;460;0" dur="8s" repeatCount="indefinite"/>
-    </rect>
-    
-    <!-- Статусы справа -->
-    <text x="520" y="85" font-family="JetBrains Mono, monospace" font-size="11" fill="#8B949E">⚡ API</text>
-    <text x="520" y="102" font-family="JetBrains Mono, monospace" font-size="13" fill="#58A6FF">
-      <tspan>142</tspan>
-      <tspan fill="#8B949E" font-size="10"> req/s</tspan>
-    </text>
-    
-    <text x="640" y="85" font-family="JetBrains Mono, monospace" font-size="11" fill="#8B949E">🐍 TESTS</text>
-    <text x="640" y="102" font-family="JetBrains Mono, monospace" font-size="13" fill="#D2A8FF">
-      <tspan>✓ 23</tspan>
-      <tspan fill="#8B949E" font-size="10"> passed</tspan>
-    </text>
-    
-    <text x="740" y="85" font-family="JetBrains Mono, monospace" font-size="11" fill="#8B949E">⏱ UPTIME</text>
-    <text x="740" y="102" font-family="JetBrains Mono, monospace" font-size="13" fill="#3FB950">
-      <tspan>99.9%</tspan>
-    </text>
-  </svg>
-</div>
+<p align="center">
+  <img src="https://github.com/SP-XD/SP-XD/raw/main/images/dev-working_rounded.gif" width="450"/>
+</p>
 
 ## About Me
 
