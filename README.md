@@ -10,6 +10,10 @@
 
 ---
 
+<p align="center">
+  <img width="500" src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif">
+</p>
+
 ## About Me
 
 Passionate Python Developer focused on building backend services, APIs, automation tools, and data-driven applications.
@@ -70,18 +74,6 @@ Passionate Python Developer focused on building backend services, APIs, automati
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aecomerce&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-## Profile Metrics
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=aecomerce&style=for-the-badge)
-
-![](https://img.shields.io/github/followers/aecomerce?style=for-the-badge)
 
 </div>
 
