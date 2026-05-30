@@ -93,8 +93,8 @@ Passionate Python Developer focused on building backend services, APIs, automati
 
 ---
 
-<div align="center">
+## Contribution Snake
 
-### Building software one commit at a time
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
