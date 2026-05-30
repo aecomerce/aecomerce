@@ -11,7 +11,7 @@
 ---
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/212750337-6f7d3f32-8c5d-4cf2-bef6-8c44c34b7f91.gif" width="650"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 </p>
 
 ## About Me
