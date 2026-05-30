@@ -11,8 +11,8 @@
 ---
 
 <table align="center"><tr>
-  <td><img src="https://raw.githubusercontent.com/aecomerce/aecomerce/main/assets/backend-terminal.svg" width="600" /></td>
-  <td><img src="https://raw.githubusercontent.com/aecomerce/aecomerce/main/assets/data-analyst-terminal.svg" width="600" /></td>
+  <td><img src="https://raw.githubusercontent.com/aecomerce/aecomerce/main/assets/backend-terminal.svg" width="800" /></td>
+  <td><img src="https://raw.githubusercontent.com/aecomerce/aecomerce/main/assets/data-analyst-terminal.svg" width="800" /></td>
 </tr></table>
 
 ## About Me
@@ -78,14 +78,6 @@ Passionate Python Developer focused on building backend services, APIs, automati
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aecomerce&theme=tokyo-night&hide_border=true"/>
 
 </div>
-
----
-
-## Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
 
 ---
 
